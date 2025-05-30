@@ -1,0 +1,123 @@
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/AbsolutePredictor_Bigger/q_val.pkl
+INFO:root:save_dir: AbsolutePredictor_Bigger/eval
+INFO:root:epsilon_eval: 0.0
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: 500
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_AbsolutePredictor
+INFO:root:predictor: 
+INFO:root:grid_size: 5
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100
+INFO:root:save_dir: experiments/AbsolutePredictor_Bigger/eval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/AbsolutePredictor_Bigger/q_val.pkl
+INFO:root:save_dir: AbsolutePredictor_Bigger/eval
+INFO:root:epsilon_eval: 0.0
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: 500
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_AbsolutePredictor
+INFO:root:predictor: 
+INFO:root:grid_size: 9
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100
+INFO:root:save_dir: experiments/AbsolutePredictor_Bigger/eval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 9
+INFO:root:reward_position1: (0, 4)
+INFO:root:reward_position2: (8, 4)
+INFO:root:cell_width: 55.55555555555556
+INFO:root:cell_height: 55.55555555555556
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100
+INFO:root:epsilon: None
+INFO:root:target_reward1: None
+INFO:root:target_reward2: None
+INFO:root:together_reward: 0
+INFO:root:travel_reward: None
+INFO:root:prior_q: experiments/AbsolutePredictor_Bigger/q_val.pkl
+INFO:root:save_dir: AbsolutePredictor_Bigger/eval
+INFO:root:epsilon_eval: 0.0
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: 500
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_AbsolutePredictor
+INFO:root:predictor: 
+INFO:root:grid_size: 9
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: None
+INFO:root:target_reward2: None
+INFO:root:together_reward: 0
+INFO:root:travel_reward: None
+INFO:root:NUM_FRAMES: 100
+INFO:root:save_dir: experiments/AbsolutePredictor_Bigger/eval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 9
+INFO:root:reward_position1: (0, 4)
+INFO:root:reward_position2: (8, 4)
+INFO:root:cell_width: 55.55555555555556
+INFO:root:cell_height: 55.55555555555556

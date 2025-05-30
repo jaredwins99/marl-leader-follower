@@ -1,0 +1,302 @@
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 85222
+INFO:root:Number of times stayed together: 127129
+INFO:root:Predictor correct countor: 256801
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 84111
+INFO:root:Number of times stayed together: 120884
+INFO:root:Predictor correct countor: 248529
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 100735
+INFO:root:Number of times stayed together: 135643
+INFO:root:Predictor correct countor: 294234
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 39420
+INFO:root:Number of times stayed together: 80435
+INFO:root:Predictor correct probability: 0.197922
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 102549
+INFO:root:Number of times stayed together: 128597
+INFO:root:Predictor correct probability: 0.601534
+INFO:root:Input Arguments:
+INFO:root:total_ep: 1000000
+INFO:root:epsilon: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 1000000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 204494
+INFO:root:Number of times stayed together: 267455
+INFO:root:Predictor correct probability: 0.587171
+INFO:root:Input Arguments:
+INFO:root:total_ep: 1000000
+INFO:root:epsilon: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictFixInterval
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:grid_size: 5
+INFO:root:Environment Settings:
+INFO:root:ep: 0.2
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 1000000
+INFO:root:save_dir: experiments/SinglePredictor/PredictFixInterval/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 175524
+INFO:root:Number of times stayed together: 233242
+INFO:root:Predictor correct probability: 0.495788

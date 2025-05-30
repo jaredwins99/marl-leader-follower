@@ -1,0 +1,1319 @@
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: None
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 7
+INFO:root:Number of times stayed together: 69
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 2000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 2000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 13
+INFO:root:Number of times stayed together: 79
+INFO:root:Input Arguments:
+INFO:root:total_ep: 20000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 20000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 73
+INFO:root:Number of times stayed together: 723
+INFO:root:Input Arguments:
+INFO:root:total_ep: 20000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 20000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 123
+INFO:root:Number of times stayed together: 705
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 1280
+INFO:root:Number of times stayed together: 11286
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 1839
+INFO:root:Number of times stayed together: 8287
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 20000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 20000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 243
+INFO:root:Number of times stayed together: 1000
+INFO:root:Input Arguments:
+INFO:root:total_ep: 20000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 20000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 348
+INFO:root:Number of times stayed together: 858
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 2032
+INFO:root:Number of times stayed together: 28206
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 1499
+INFO:root:Number of times stayed together: 46497
+INFO:root:Predictor correct countor: 140245
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.5
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.5
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 1845
+INFO:root:Number of times stayed together: 10749
+INFO:root:Predictor correct countor: 99651
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 2635
+INFO:root:Number of times stayed together: 8263
+INFO:root:Predictor correct countor: 80029
+INFO:root:Input Arguments:
+INFO:root:total_ep: 200000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 200000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 1881
+INFO:root:Number of times stayed together: 50308
+INFO:root:Predictor correct countor: 139736
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 4836
+INFO:root:Number of times stayed together: 82453
+INFO:root:Predictor correct countor: 349490
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.5
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.5
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 4274
+INFO:root:Number of times stayed together: 93352
+INFO:root:Predictor correct countor: 349788
+INFO:root:Input Arguments:
+INFO:root:total_ep: 500000
+INFO:root:epsilon: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: SinglePredictor/PredictWhileReward
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: 0
+INFO:root:plot_grid: False
+INFO:root:agent: JointAgent_Predictor
+INFO:root:predictor: logistic
+INFO:root:Environment Settings:
+INFO:root:ep: 0.3
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 20.0
+INFO:root:together_reward: 0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 500000
+INFO:root:save_dir: experiments/SinglePredictor/PredictWhileReward/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 90527
+INFO:root:Number of times stayed together: 75740
+INFO:root:Predictor correct countor: 255134

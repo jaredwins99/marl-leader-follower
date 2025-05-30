@@ -1,0 +1,6 @@
+Training details:
+- Agent1 receives 10 reward at target
+- Agent2 receives 5 reward at target
+- No reward for staying together
+- target1 = (0,4); target2 = (9,4)
+- prior set as individual priors, i.e. values functions for individual water tasks

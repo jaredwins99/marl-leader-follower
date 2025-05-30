@@ -1,0 +1,459 @@
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: 0.6
+INFO:root:target-reward1: 20.0
+INFO:root:target-reward2: 10.0
+INFO:root:together-reward: 5.0
+INFO:root:travel-reward: -0.1
+INFO:root:prior-q: 
+INFO:root:save-dir: together_test1
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: 0.6
+INFO:root:target-reward1: 20.0
+INFO:root:target-reward2: 10.0
+INFO:root:together-reward: 5.0
+INFO:root:travel-reward: -0.1
+INFO:root:prior-q: 
+INFO:root:save-dir: together_test1
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target-reward1: 20.0
+INFO:root:target-reward2: 10.0
+INFO:root:together-reward: 5.0
+INFO:root:travel-reward: -0.1
+INFO:root:prior-q: 
+INFO:root:save-dir: together_test1
+INFO:root:Number of times reached target: 139
+INFO:root:Number of times stayed together: 37187
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target-reward1: 20.0
+INFO:root:target-reward2: 10.0
+INFO:root:together-reward: 5.0
+INFO:root:travel-reward: -0.1
+INFO:root:prior-q: 
+INFO:root:save-dir: together_test1
+INFO:root:Number of times reached target: 52
+INFO:root:Number of times stayed together: 35431
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target-reward1: 20.0
+INFO:root:target-reward2: 10.0
+INFO:root:together-reward: 1.0
+INFO:root:travel-reward: -0.1
+INFO:root:prior-q: 
+INFO:root:save-dir: together_test1
+INFO:root:Number of times reached target: 1252
+INFO:root:Number of times stayed together: 12290
+INFO:root:Input Arguments:
+INFO:root:total_ep: None
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/together_test1/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: None
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: None
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/together_test1/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: None
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: None
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/together_test1/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: None
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/together_test1/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: False
+INFO:root:plot: False
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: None
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 10000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: False
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 10000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 116
+INFO:root:Number of times stayed together: 1413
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: False
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: False
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 10000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 804
+INFO:root:Number of times stayed together: 2709
+INFO:root:Input Arguments:
+INFO:root:total_ep: 10000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: False
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 10000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 475
+INFO:root:Number of times stayed together: 2621
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: together_test1
+INFO:root:epsilon_eval: 0.2
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: True
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 5.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100000
+INFO:root:save_dir: experiments/together_test1/
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 7829
+INFO:root:Number of times stayed together: 23459
+INFO:root:Input Arguments:
+INFO:root:total_ep: 100000
+INFO:root:epsilon: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:prior_q: experiments/priors/OneDiffusion/q_val.pkl
+INFO:root:save_dir: Independent/together_test1
+INFO:root:epsilon_eval: None
+INFO:root:train: True
+INFO:root:plot: True
+INFO:root:eval: False
+INFO:root:plot_grid: False
+INFO:root:Environment Settings:
+INFO:root:ep: 0.6
+INFO:root:target_reward1: 20.0
+INFO:root:target_reward2: 10.0
+INFO:root:together_reward: 1.0
+INFO:root:travel_reward: -0.1
+INFO:root:NUM_FRAMES: 100000
+INFO:root:save_dir: experiments/Independent/together_test1/
+INFO:root:plot_grid: False
+INFO:root:WHITE: (255, 255, 255)
+INFO:root:RED: (255, 0, 0)
+INFO:root:BLUE: (0, 0, 255)
+INFO:root:GREEN: (0, 255, 0)
+INFO:root:BLACK: (0, 0, 0)
+INFO:root:FPS: 120
+INFO:root:RED1: (179, 0, 0)
+INFO:root:RED2: (127, 0, 0)
+INFO:root:WIDTH: 500
+INFO:root:HEIGHT: 500
+INFO:root:grid_size: 5
+INFO:root:reward_position1: (0, 2)
+INFO:root:reward_position2: (4, 2)
+INFO:root:cell_width: 100.0
+INFO:root:cell_height: 100.0
+INFO:root:Number of times reached target: 7466
+INFO:root:Number of times stayed together: 21892

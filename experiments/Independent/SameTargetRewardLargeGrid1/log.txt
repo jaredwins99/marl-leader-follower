@@ -1,0 +1,2 @@
+INFO:matplotlib.animation:Animation.save using <class 'matplotlib.animation.HTMLWriter'>
+INFO:matplotlib.animation:Animation.save using <class 'matplotlib.animation.HTMLWriter'>

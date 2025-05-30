@@ -1,0 +1,3 @@
+Training details:
+- Reward at target = 0
+- Agent2 recieves reward while concides with Agent1
