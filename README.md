@@ -3,7 +3,7 @@
 
 *STATUS: Pre-LMM*
 
-Note: This work contributed to a larger research article, now available as a preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC12407837/.
+**Note**: This work contributed to a larger research article, now available as a preprint: https://pmc.ncbi.nlm.nih.gov/articles/PMC12407837/.
 
 ---
 
