@@ -25,6 +25,8 @@ To manage multiple agents, the Gauss-Seidel algorithm iterates between updating 
 
 <img width="2048" height="1045" alt="unnamed" src="https://github.com/user-attachments/assets/a0bacf69-b1c8-462f-8bf1-7cd553225805" />
 
+---
+
 ## Incremental Learning
 
 Even for simple tasks, RL agents can struggle to learn cause and effect. 
