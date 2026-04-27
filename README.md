@@ -25,7 +25,7 @@ To manage multiple agents, the Gauss-Seidel algorithm iterates between updating 
 
 <br>
 
-<img width="1700" height="900" alt="unnamed" src="https://github.com/user-attachments/assets/a0bacf69-b1c8-462f-8bf1-7cd553225805" />
+<img width="1500" height="850" alt="unnamed" src="https://github.com/user-attachments/assets/a0bacf69-b1c8-462f-8bf1-7cd553225805" />
 
 <br>
 
