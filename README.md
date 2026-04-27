@@ -25,6 +25,8 @@ To manage multiple agents, the Gauss-Seidel algorithm iterates between updating 
 
 <img width="2048" height="1045" alt="unnamed" src="https://github.com/user-attachments/assets/a0bacf69-b1c8-462f-8bf1-7cd553225805" />
 
+What we see here is that each agent models both its own reward function and the other's, yielding four models total: all four are isomorphic.
+
 ---
 
 ## Incremental Learning
